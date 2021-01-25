@@ -29,6 +29,7 @@ generate dari nomor IMSI.
 
 Generasi Seluler
 
+
 1G 🡪 AMPS (Advanced Mobile Phone Service)
 
 2G 🡪 GSM (Global System for Mobile Communication)
