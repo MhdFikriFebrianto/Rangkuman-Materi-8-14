@@ -1,7 +1,5 @@
 ## Rangkuman Materi 8-14
 
-## Rangkum Materi Pertemuan 8-14
-
 # Jaringan Seluler
 
 Prinsip Jaringan Seluler
